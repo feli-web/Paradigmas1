@@ -1,0 +1,40 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="Inventory">
+			<method name="RemoveItem"/>
+			<method name="RemoveItem"/>
+			<method name="RemoveItem"/>
+			<method name="RemoveItem"/>
+			<method name="RemoveItem"/>
+			<method name="RemoveItem"/>
+			<method name="RemoveItem"/>
+		</type>
+		<type fullname="Menu">
+			<method name="Translation"/>
+			<method name="Translation"/>
+			<method name="Translation"/>
+			<method name="Translation"/>
+			<method name="Translation"/>
+			<method name="Translation"/>
+			<method name="Translation"/>
+			<method name="Translation"/>
+			<method name="Translation"/>
+			<method name="Translation"/>
+			<method name="Translation"/>
+			<method name="Translation"/>
+		</type>
+		<type fullname="MissionSystem">
+			<method name="AcceptMission"/>
+			<method name="Close"/>
+			<method name="Close"/>
+			<method name="Close"/>
+			<method name="MissionOpen"/>
+			<method name="MissionOpen"/>
+			<method name="MissionOpen"/>
+			<method name="RejectMission"/>
+		</type>
+		<type fullname="PointSystem">
+			<method name="ButtonTouch"/>
+		</type>
+	</assembly>
+</linker>
